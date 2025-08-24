@@ -1,4 +1,4 @@
-//Q6: Write a program to swap two numbers using a third variable.
+//Q8: Write a program to find and display the sum of the first n natural numbers.
 #include<stdio.h>
 int main()
 {
