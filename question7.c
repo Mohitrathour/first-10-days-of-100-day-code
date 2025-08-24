@@ -1,4 +1,4 @@
-//Q6: Write a program to swap two numbers using a third variable.
+//Q7: Write a program to swap two numbers without using a third variable.
 #include<stdio.h>
 int main()
 {
